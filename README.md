@@ -39,7 +39,7 @@ jupyter notebook solution.ipynb
 | Файл | Описание |
 |------|----------|
 | `apparel-purchases`  | Покупки: client_id, quantity, price, category_ids, date, message_id |
-| `apparel-messages`  | Рассылки: client_id, event (sent/opened/clicked), date, created_at |
+| `apparel-messages`  | Рассылки: client_id, event, date, created_at |
 | `apparel-target_binary`  | Цель: client_id, target (1 — покупка в течение 90 дней) |
 
 ---
